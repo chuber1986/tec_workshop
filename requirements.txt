@@ -1,0 +1,14 @@
+cycler
+matplotlib
+numpy
+Pillow
+pyparsing
+PyQt5
+python-dateutil
+pytz
+PyYAML
+scipy
+sip
+six
+torch
+torch-vision
