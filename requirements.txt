@@ -12,3 +12,4 @@ sip
 six
 torch
 torch-vision
+torchvision
